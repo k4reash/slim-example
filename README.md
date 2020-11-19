@@ -3,7 +3,7 @@
 Basic PHP API Rest made in Slim Framework
 
 # Usage
-Edit file * */src/settings.php* * whit your mySQL credentials.
+Edit file */src/settings.php* whit your mySQL credentials.
 
 
 ## Create new Slim Framework 3 Application
